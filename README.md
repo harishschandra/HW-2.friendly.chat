@@ -5,4 +5,8 @@ This Web application uses firebase for signing in to the chat interface. In this
 To run the code, please follow instructions provided in the following link:
 https://codelabs.developers.google.com/codelabs/firebase-web/#0
 
+### Screenshot of the chat interface before signing in:
+
+<img width="951" alt="screenshot 20" src="https://user-images.githubusercontent.com/31711508/32797407-acef41a8-c93f-11e7-8458-54868b84b164.png">
+
 

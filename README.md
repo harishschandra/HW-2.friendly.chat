@@ -16,3 +16,10 @@ https://codelabs.developers.google.com/codelabs/firebase-web/#0
 ### Screenshot of allow notification prompt for showing notification:
 
 <img width="958" alt="screenshot 22" src="https://user-images.githubusercontent.com/31711508/32797522-12df9a1c-c940-11e7-8f5d-393fd9d5f898.png">
+
+### Screenshot of the chat inteface after signing in:
+
+<img width="957" alt="screenshot 23" src="https://user-images.githubusercontent.com/31711508/32797583-46c46254-c940-11e7-98e9-1a9b96521e9f.png">
+
+
+If you observe the chat history in the last image and the chat history in the images in HW-1 part A, you can see the messages are synced across the web interface and the android app.
